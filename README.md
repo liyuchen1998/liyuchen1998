@@ -1,16 +1,27 @@
-## Hi there 👋
+## 你好，我是昱辰 👋
 
-<!--
-**liyuchen1998/liyuchen1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍺 酒吧/咖啡店店长 | 📊 数据分析学习者 | 💪 健身爱好者
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 关于我
+- 🌍 坐标西安
+- - ☕ 经营酒吧和咖啡店，管理3人小团队
+  - - 📚 正在学习数据分析，目标内部晋升
+    - - 💡 对AI工具、效率提升、运营复盘充满热情
+     
+      - ### 这个仓库记录什么
+      - - 📝 数据分析学习笔记
+        - - 🍸 门店运营复盘与思考
+          - - 💪 健身与饮食管理
+            - - 🛠️ 各种工具的使用心得
+             
+              - ### 技术栈
+              - - Excel / 数据透视表 / XLOOKUP / SUMIFS
+                - - Python（学习中）
+                  - - 数据分析与可视化
+                   
+                    - ---
+
+                    > 这是我的个人知识库，每次更新都会留下版本记录，可以随时回看历史。
+                    > 
